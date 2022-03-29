@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Martin_Brose-%234518f?color=%234518f5&logo=linkedin&logoColor=%2523403d3d&style=for-the-badge)](https://www.linkedin.com/in/martinbrose/)
+
+## If you like what I've created, please consider contributing:
+
+<a href="https://ko-fi.com/martinbrose"><img src="https://img.shields.io/badge/Coffee-Buy%20me%20a%20Coffee-grey?style=for-the-badge&logo=buy-me-a-coffee&labelColor=000000"></a>
