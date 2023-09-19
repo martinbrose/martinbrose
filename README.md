@@ -23,7 +23,7 @@
  - [tevslin/cloudflarepycli](https://github.com/tevslin/cloudflarepycli): Python CLI and Python class for retrieving user's realtime performance statistics
  - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi): A Raspberry Pi Configuration for Internet connectivity
  - [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The free/open-source library for quantitative finance
- - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole): A black hole for Internet advertisements - Network-wide ad blocking via your own Linux hardware
+ - [pi-hole](https://github.com/pi-hole): A black hole for Internet advertisements - Network-wide ad blocking via your own Linux hardware
 
 ## 💬 Let's Connect
 
